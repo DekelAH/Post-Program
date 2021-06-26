@@ -1,0 +1,7 @@
+D:\Programming\Github Projects\Post-Program\Post_Inheritance\bin\Debug\Post_Inheritance.exe.config
+D:\Programming\Github Projects\Post-Program\Post_Inheritance\bin\Debug\Post_Inheritance.exe
+D:\Programming\Github Projects\Post-Program\Post_Inheritance\bin\Debug\Post_Inheritance.pdb
+D:\Programming\Github Projects\Post-Program\Post_Inheritance\obj\Debug\Post_Inheritance.csprojAssemblyReference.cache
+D:\Programming\Github Projects\Post-Program\Post_Inheritance\obj\Debug\Post_Inheritance.csproj.CoreCompileInputs.cache
+D:\Programming\Github Projects\Post-Program\Post_Inheritance\obj\Debug\Post_Inheritance.exe
+D:\Programming\Github Projects\Post-Program\Post_Inheritance\obj\Debug\Post_Inheritance.pdb
